@@ -17,3 +17,7 @@ h1 {
     border-color: gold;    
 } 
 
+img{
+    max-width: 80%;
+    padding-left: 10%;
+}
